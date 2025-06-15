@@ -15,3 +15,4 @@ prefer let over var due to block code or functional blocks
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
+
